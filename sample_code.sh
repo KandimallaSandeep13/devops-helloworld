@@ -2,6 +2,7 @@
 #changes done
 new changes are commited
 this is new change
+latest change
 hellol
 
 echo "This is an Samples Script from  GitHub"
