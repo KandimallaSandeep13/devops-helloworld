@@ -1,5 +1,5 @@
 #!/bin/bash
-#sample
+#changes done
 
 echo "This is an Samples Script from GitHub"
 echo "This is test from Linux Server"
