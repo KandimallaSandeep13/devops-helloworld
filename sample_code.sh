@@ -1,6 +1,7 @@
 #!/bin/bash
 #changes done
 new changes are commited
+this is new change
 
 echo "This is an Samples Script from  GitHub"
 echo "This is test from Linux new latest  new Server"
