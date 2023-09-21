@@ -10,6 +10,7 @@ Sandeep
 Tronix
 File
 new message
+new commit
 echo "This is an Samples Script from  GitHub"
 echo "This is test from Linux new latest  new Server"
 echo "This is an example of a script"
